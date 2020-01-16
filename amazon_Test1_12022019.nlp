@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=amazon_Test1_12022019
+project.version=6.6
+project.original.version=6.6
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=7.0.0
+product.original.version=7.0.0
+project.id=0d4da6b5-80fb-449d-adba-aa230439eae0
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false

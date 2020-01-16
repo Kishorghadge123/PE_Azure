@@ -1,0 +1,10 @@
+GET https://c.trello.com:443/i?stm=1575290307592&e=ue&ue_px=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy91bnN0cnVjdF9ldmVudC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9saW5rX2NsaWNrL2pzb25zY2hlbWEvMS0wLTEiLCJkYXRhIjp7InRhcmdldFVybCI6Imh0dHBzOi8vdHJlbGxvLmNvbS9sb2dpbiIsImVsZW1lbnRJZCI6IiIsImVsZW1lbnRDbGFzc2VzIjpbImJ0biIsImJ0bi1zbSIsImJ0bi1saW5rIiwidGV4dC13aGl0ZSJdLCJlbGVtZW50VGFyZ2V0IjoiIn19fQ&tv=js-2.9.0&tna=cf&aid=meta&p=web&tz=Asia%2FKolkata&lang=en-US&cs=utf-8&f_pdf=1&f_qt=0&f_realp=0&f_wma=0&f_dir=0&f_fla=0&f_java=1&f_gears=0&f_ag=0&res=1920x1080&cd=24&cookie=1&eid=8ed487ee-0647-4167-a934-79d1bd9da8d8&dtm=1575290307590&vp=1920x899&ds=1900x3798&vid=1&sid=09131ab5-4ed8-487e-a2f7-a75856698634&duid=14a934d9-c1d4-4465-b3b5-560616d62a05&fp=188198924&url=https%3A%2F%2Ftrello.com%2F HTTP/1.1
+Referer: https://trello.com/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763
+Accept: image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US
+Accept-Encoding: gzip, deflate, br
+Host: c.trello.com
+Connection: Keep-Alive
+Cookie: _sp_ses.dc4d=*; _sp_id.dc4d=14a934d9-c1d4-4465-b3b5-560616d62a05.1575290295.1.1575290308.1575290295.09131ab5-4ed8-487e-a2f7-a75856698634
+

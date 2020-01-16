@@ -1,0 +1,7 @@
+GET https://a.trellocdn.com/prgb/dist/images/header-logo-2x.01ef898811a879595cea.png HTTP/2.0
+referer: https://trello.com/
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763
+accept: image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+accept-language: en-US
+accept-encoding: gzip, deflate, br
+

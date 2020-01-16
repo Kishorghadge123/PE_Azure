@@ -1,0 +1,10 @@
+GET https://c.trello.com:443/i?stm=1575290364614&e=pv&url=https%3A%2F%2Ftrello.com%2Flogged-out&page=Logged%20out%20of%20Trello&refr=https%3A%2F%2Ftrello.com%2Fb%2FjvM9oyAj%2Fperformance-testing&tv=js-2.9.0&tna=cf&aid=meta&p=web&tz=Asia%2FKolkata&lang=en-US&cs=utf-8&f_pdf=1&f_qt=0&f_realp=0&f_wma=0&f_dir=0&f_fla=0&f_java=1&f_gears=0&f_ag=0&res=1920x1080&cd=24&cookie=1&eid=fcf883a4-79f1-44b0-b56d-cfde5a09499e&dtm=1575290364612&vp=1920x899&ds=1900x2600&vid=1&sid=09131ab5-4ed8-487e-a2f7-a75856698634&duid=14a934d9-c1d4-4465-b3b5-560616d62a05&fp=188198924 HTTP/1.1
+Referer: https://trello.com/logged-out
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763
+Accept: image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US
+Accept-Encoding: gzip, deflate, br
+Host: c.trello.com
+Connection: Keep-Alive
+Cookie: _sp_ses.dc4d=*; _sp_id.dc4d=14a934d9-c1d4-4465-b3b5-560616d62a05.1575290295.1.1575290365.1575290295.09131ab5-4ed8-487e-a2f7-a75856698634; ajs_group_id=null; ajs_anonymous_id=%22c0902cee-c079-40b6-98fe-3b43c3827c8d%22
+

@@ -1,0 +1,9 @@
+GET https://d2k1ftgv7pobq7.cloudfront.net:443/meta/c/p/res/js/analytics/07704e81046d51af8ee40cf7f4ee17eb/googleTagManager.js HTTP/1.1
+Referer: https://trello.com/login
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763
+Accept: */*
+Accept-Language: en-US
+Accept-Encoding: gzip, deflate, br
+Host: d2k1ftgv7pobq7.cloudfront.net
+Connection: Keep-Alive
+

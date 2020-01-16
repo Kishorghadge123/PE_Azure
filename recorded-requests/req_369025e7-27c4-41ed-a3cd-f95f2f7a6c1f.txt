@@ -1,0 +1,10 @@
+GET https://d2k1ftgv7pobq7.cloudfront.net:443/meta/p/res/fonts/charlie-text/b7e8ae700922f44a87cf9bfa816f47f3/Charlie_Text-Regular.woff HTTP/1.1
+Host: d2k1ftgv7pobq7.cloudfront.net
+Connection: Keep-Alive
+Origin: https://trello.com
+Referer: https://trello.com/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763
+Accept: */*
+Accept-Language: en-US
+Accept-Encoding: gzip, deflate, br
+

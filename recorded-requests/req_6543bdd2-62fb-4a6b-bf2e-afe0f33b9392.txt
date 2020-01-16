@@ -1,0 +1,9 @@
+GET https://d2k1ftgv7pobq7.cloudfront.net:443/meta/c/p/res/js/analytics/36252699f58e708db8f43a7c1382f0a9/eventsWrapper.js HTTP/1.1
+Referer: https://trello.com/login
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763
+Accept: */*
+Accept-Language: en-US
+Accept-Encoding: gzip, deflate, br
+Host: d2k1ftgv7pobq7.cloudfront.net
+Connection: Keep-Alive
+

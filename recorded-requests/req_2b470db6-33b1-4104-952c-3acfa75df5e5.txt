@@ -1,0 +1,10 @@
+GET https://c.trello.com:443/i?stm=1575290329226&e=se&se_ca=apdex&se_ac=memberBoards&se_la=timeSpentBeforeMeasure&se_pr=visible&se_va=2638&tv=js-2.9.0&tna=cf&aid=web&p=web&tz=Asia%2FKolkata&lang=en-US&cs=utf-8&f_pdf=1&f_qt=0&f_realp=0&f_wma=0&f_dir=0&f_fla=0&f_java=1&f_gears=0&f_ag=0&res=1920x1080&cd=24&cookie=1&eid=055b77e0-0e80-4b76-a1ca-0b94a1554384&dtm=1575290329212&vp=1920x899&ds=1920x899&vid=1&sid=09131ab5-4ed8-487e-a2f7-a75856698634&duid=14a934d9-c1d4-4465-b3b5-560616d62a05&fp=188198924&uid=5dd509d91eadc7551acef57d&refr=https%3A%2F%2Ftrello.com%2F&url=https%3A%2F%2Ftrello.com%2Ftejalburange1%2Fboards&cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20udHJlbGxvL3dlYi1jb250ZXh0L2pzb25zY2hlbWEvMS0wLTQiLCJkYXRhIjp7ImNsaWVudF92ZXJzaW9uIjoiYnVpbGQtNDA3NyIsImNsaWVudF9sb2NhbGUiOiJlbi1VUyJ9fV19 HTTP/1.1
+Referer: https://trello.com/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763
+Accept: image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US
+Accept-Encoding: gzip, deflate, br
+Host: c.trello.com
+Connection: Keep-Alive
+Cookie: _sp_ses.dc4d=*; _sp_id.dc4d=14a934d9-c1d4-4465-b3b5-560616d62a05.1575290295.1.1575290329.1575290295.09131ab5-4ed8-487e-a2f7-a75856698634; ajs_group_id=null; ajs_anonymous_id=%22c0902cee-c079-40b6-98fe-3b43c3827c8d%22
+

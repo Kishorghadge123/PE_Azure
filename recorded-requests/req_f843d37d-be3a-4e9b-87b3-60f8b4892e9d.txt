@@ -1,0 +1,11 @@
+GET https://trello.com/1/members/5dd509d91eadc7551acef57d?fields=avatarHash%2CfullName%2Cinitials%2CnonPublic%2CavatarSource%2Cemail%2Cusername%2Cbio%2Cprefs%2Cproducts%2CloginTypes&tokens=all&sessions=all&credentials=all&logins=true HTTP/2.0
+referer: https://trello.com/
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763
+accept: application/json
+accept-language: en-US
+content-type: application/json
+x-trello-client-version: build-4077
+x-trello-reqid: 5dd509d91eadc7551acef57d-0.40264674089254626
+accept-encoding: gzip, deflate, br
+cookie: dsc=d469bb834434faadb20a90350875b14bbe99c953403e8a6b0f8ce37a7f52f626; lang=en-US; mab=78389; gdpr-cookie-consent=accepted; landing=New%20Landing; _sp_ses.dc4d=*; _sp_id.dc4d=14a934d9-c1d4-4465-b3b5-560616d62a05.1575290295.1.1575290328.1575290295.09131ab5-4ed8-487e-a2f7-a75856698634; ajs_group_id=null; ajs_anonymous_id=%22c0902cee-c079-40b6-98fe-3b43c3827c8d%22; token=5dd509d91eadc7551acef57d%2FvvbdgnW4HU9xRpsoqvRR0Dn55bIV3a3k4c5UaH3J3NqwEfzLJ3uYW7aoRXEJztYL; hasAccount=password
+

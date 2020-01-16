@@ -1,0 +1,9 @@
+GET https://d2k1ftgv7pobq7.cloudfront.net:443/meta/u/res/js/67806f9ff1ce059372fafdc52c3073c2/jquery.min.js HTTP/1.1
+Referer: https://trello.com/logged-out
+Accept: */*
+Accept-Language: en-US
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763
+Host: d2k1ftgv7pobq7.cloudfront.net
+Connection: Keep-Alive
+
